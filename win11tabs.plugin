@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python3
+Module=win11tabs
+IAge=2
+Name=Guias estilo Windows 11 (Multi-Tabs & Session)
+Description=Mantém a barra de guias sempre visível com botão (+), atalhos Ctrl+T/Ctrl+Tab e preserva arquivos abertos em guias como o Bloco de Notas do Windows 11
+Icon=tab-new-symbolic
+Authors=Igor Ruy
+Copyright=Copyright © 2026
+Website=https://www.linuxmint.com
